@@ -5,6 +5,9 @@ This turns out to be not so simple, since there's no good way to automate the co
 So I've decided that keeping the HTML and text versions in git will let me see the changes much more easily.
 This way, I'll be able to easily see that the changes between all 3 formats are consistent.
 
+NOTE: I'm seriously considering converting the text version to MultiMarkdown,
+and generating HTML and PDF versions (and maybe a Word version) from that.
+
 Having my résumé in git will also help me track changes over time.
 And it'll give me the possibility of "forking" my résumé for different purposes.
 
