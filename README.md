@@ -1,14 +1,14 @@
-I maintain 3 formats of my résumé -- Word, HTML, and plain text.
+I need to provide my résumé in several formats, due to requirements that
+different companies have.
 
-This turns out to be not so simple, since there's no good way to automate the conversion between formats.
-(The formatting ends up looking terrible.)
-So I've decided that keeping the HTML and text versions in git will let me see the changes much more easily.
-This way, I'll be able to easily see that the changes between all 3 formats are consistent.
+After several years of manually updating 3 different formats, I decided to
+maintain and update only a Markdown version, and generate all the other
+formats from that. I tried using MultiMarkdown at first, but then settled
+on Pandoc's variant of Markdown, since Pandoc makes it easier to generate
+more formats.
 
-NOTE: I'm seriously considering converting the text version to MultiMarkdown,
-and generating HTML and PDF versions (and maybe a Word version) from that.
-
-Having my résumé in git will also help me track changes over time.
-And it'll give me the possibility of "forking" my résumé for different purposes.
+Having my résumé in git will also help me track changes over time. And
+it will give me the possibility of "forking" my résumé for different
+purposes.
 
 -- Craig Buchek
