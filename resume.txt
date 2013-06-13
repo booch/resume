@@ -27,8 +27,8 @@ Highlights
    * Implemented method of automatically configuring cable modems for a large
      Internet Service Provider, with approximately 20,000 cable modem
      customers per site.
-   * Led and managed a small team to develop GNU/Linux training manuals.
    * Very active member of local Ruby and GNU/Linux communities.
+   * Led and managed a small team to develop GNU/Linux training manuals.
 
 
 Technical Expertise
@@ -43,11 +43,11 @@ Technical Expertise
      methodologies, source control
    * Development tools: Git, Subversion, RSpec, Capybara, Cucumber, Selenium,
      Capistrano
-   * Operating systems: GNU/Linux (Debian, Ubuntu, Red Hat), Mac OS X, UNIX
-     (Solaris, OpenBSD, HP-UX), Windows (3.1 - XP)
-   * Network services: Web servers (Apache, Nginx), Web proxies (Squid,
-     Inktomi), Email (Postfix), file services (Windows, Novell, Samba, NFS),
-     DNS (BIND 4 - 9), LDAP (OpenLDAP, iPlanet)
+   * Operating systems: GNU/Linux (Debian, Ubuntu, Red Hat), Mac OS X, Solaris,
+     Windows
+   * Network services: Web servers (Apache, Nginx), Web proxies (Squid),
+     Email (Postfix), file services (Windows, Novell, Samba, NFS), DNS (BIND),
+     LDAP (OpenLDAP)
    * Technical communication: Written procedures, live presentations,
      training, development of training materials, technical writing, technical
      editing
@@ -74,8 +74,6 @@ Certifications
      Certified Professional (MCP)
    * Novell Certified NetWare 5 Engineer (CNE) and Certified NetWare 5
      Administrator (CNA)
-   * Cisco Certified Network Associate (CCNA) - Routing and Switching
-     (expired)
    * Sun Certified Programmer for the Java 2 Platform
 
 
@@ -166,14 +164,12 @@ Security Administrator/Designer at Anheuser-Busch (2001.07 - 2006.12, 2008.04 - 
         network problems.
       * Captured, decoded, and interpreted network traffic to diagnose 
         problems.
-   * Maintained SideWinder, SnapGear, Gauntlet, and CheckPoint firewalls and
-     VPNs.
+   * Maintained SideWinder, SnapGear, Gauntlet, and CheckPoint firewalls.
    * Worked to improve and streamline various processes and procedures.
       * Remediated issues discovered in audits.
       * Improved customer expectations and communication.
    * Configured and maintained network load balancers (Radware FireProof,
      Cisco 11K).
-   * Maintained and configured Cisco switches and routers.
 
 Networking Consultant at Charter Communications (2001.05 - 2001.06)
 
@@ -184,7 +180,6 @@ Networking Consultant at Charter Communications (2001.05 - 2001.06)
      code.
    * Designed scalable LDAP schema to store information about customer
      devices.
-   * Installed and configured iPlanet Directory Server 5.0.
    * Wrote Perl scripts to access and update information in LDAP database.
    * Configured Cisco Network Registrar DHCP server to utilize LDAP as its
      information store.
