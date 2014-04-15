@@ -57,10 +57,10 @@ Training and Conferences
 ------------------------
 
    * Pragmatic Programmers Advanced Rails Training - 2007
-   * RailsConf - 2007, 2008, 2010
+   * RailsConf - 2007, 2008, 2010, 2014
    * Midwest Ruby Conference - 2011
    * Windy City Rails - 2011
-   * Strange Loop - 2011, 2012
+   * Strange Loop - 2011, 2012, 2013
       * Hadoop training - 2012
    * OSCON (Open Source Conference) - 2003
 
