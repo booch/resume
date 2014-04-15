@@ -65,18 +65,6 @@ Training and Conferences
    * OSCON (Open Source Conference) - 2003
 
 
-Certifications
---------------
-
-   * Linux Professional Institute Certified - Level 1 (LPIC-1)
-   * CompTIA A+, Network+, and i-Net+ Certified Professional
-   * Microsoft Certified Systems Engineer (MCSE NT 4.0) and Microsoft
-     Certified Professional (MCP)
-   * Novell Certified NetWare 5 Engineer (CNE) and Certified NetWare 5
-     Administrator (CNA)
-   * Sun Certified Programmer for the Java 2 Platform
-
-
 Professional Experience
 -----------------------
 
