@@ -1,5 +1,7 @@
 #!/bin/bash
 
+export PATH=$PATH:/usr/texbin
+
 # Create text version from Markdown. (Remove double asterisks (except for a line of asterisks) and header attributes.)
 sed -e '/^\**$/! s/\*\*//g' -e 's/{.*}//g' resume.md > resume.txt
 
