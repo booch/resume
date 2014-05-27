@@ -21,14 +21,15 @@ Summary
 Highlights
 ----------
 
-   * Created web sites in Ruby on Rails for several different companies.
+   * Built web sites in Ruby on Rails for several different companies.
    * Mentored developers in Agile methodologies and Java programming, in order
      to bring developer jobs back to the USA.
    * Implemented method of automatically configuring cable modems for a large
      Internet Service Provider, with approximately 20,000 cable modem
      customers per site.
-   * Very active member of local Ruby and GNU/Linux communities.
    * Led and managed a small team to develop GNU/Linux training manuals.
+   * Very active member of local Ruby and GNU/Linux communities.
+   * Co-host of This Agile Life podcast.
 
 
 Technical Expertise
@@ -36,8 +37,8 @@ Technical Expertise
 
    * **Programming languages**: Ruby, JavaScript, UNIX shell, Python, Java, PHP,
      C, C++
-   * **Web development**: HTML/CSS, JavaScript/AJAX, Ruby on Rails, jQuery, XML/
-     XSLT
+   * **Web development**: HTML/CSS, JavaScript/AJAX, Ruby on Rails, jQuery,
+     XML/XSLT
    * **Development practices**: Test-Driven Development (TDD), Behavior-Driven
      Development (BDD), pair programming, Continuous Integration (CI), Agile
      methodologies, source control
@@ -68,14 +69,16 @@ Training and Conferences
 Professional Experience
 -----------------------
 
-**Cloud Engineer** at Express Scripts (2012.10 - present)
+**Sr. Software Developer** at Liaison International (2013.09 - present)
 
-   * Worked on a team building an internal cloud infrastructure.
-   * Developed web interface to access systems deployed to the cloud.
-   * Helped existing projects modify their practices to deploy their
-     applications to the cloud.
-   * Acted as liaison to coordinate with other groups to push the company
-     toward the strategic goal of utilizing the cloud infrastructure.
+   * Worked to improve a large complex Ruby on Rails application.
+      * Increased test coverage.
+      * Reduced technical debt.
+      * Rearchitected several components.
+   * Helped transform a team to employ Agile practices to increase performance.
+      * Implemented retrospectives, pair programming, TDD, refactoring, 
+        continuous integration, code reviews.
+      * Mentored them to improve their Ruby skills.
 
 **Web Developer** at BoochTek, LLC (2006.12 - present)
 
@@ -95,6 +98,17 @@ Professional Experience
    * Developed source code revision control and deployment best practices to
      easily add features to production sites, with ability to back out changes
      quickly if necessary.
+
+**Cloud Engineer** at Express Scripts (2012.10 - 2013.09)
+
+   * Worked on a team building an internal cloud infrastructure.
+      * Automated deployment of Java applications to cloud servers.
+   * Developed web interface to view information about web applications
+     deployed to the cloud. (Python)
+   * Helped existing projects modify their practices to deploy their
+     applications to the cloud.
+   * Acted as liaison to coordinate with other groups to push the company
+     toward the strategic goal of utilizing the cloud infrastructure.
 
 **Sr. Software Developer** at Asynchrony Solutions (2010.10 - 2012.10)
 
@@ -163,11 +177,13 @@ Professional Experience
 Community Involvement
 ---------------------
 
+   * Co-host of This Agile Life podcast
    * Active member of St. Louis Ruby Users Group
    * Active member of St. Louis GNU/Linux Users Group
-      * Chairman, 2001 - present
+      * Chairman, 2001 - 2014
    * Active member of St. Louis UNIX Users Group
-      * Board of Directors, 2001 - 2004, 2006 - present
+      * Board of Directors, 2001 - 2004, 2007 - 2013
+      * Secretary, 2004 - present
    * Presentations on various technical topics at various venues
       * Ruby, Ruby on Rails
       * jQuery, JavaScript, AJAX
