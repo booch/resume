@@ -159,19 +159,6 @@ Professional Experience
    * Configured and maintained network load balancers (Radware FireProof,
      Cisco 11K).
 
-**Networking Consultant** at Charter Communications (2001.05 - 2001.06)
-
-   * Implemented method of automatically configuring cable modems for a large
-     Internet Service Provider, with approximately 20,000 cable modem
-     customers per site.
-   * Developed back-end code to integrate configuration with front-end web
-     code.
-   * Designed scalable LDAP schema to store information about customer
-     devices.
-   * Wrote Perl scripts to access and update information in LDAP database.
-   * Configured Cisco Network Registrar DHCP server to utilize LDAP as its
-     information store.
-
 
 Community Involvement
 ---------------------
