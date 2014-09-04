@@ -6,16 +6,12 @@ export PATH=$PATH:/usr/texbin
 sed -e '/^\**$/! s/\*\*//g' -e 's/{.*}//g' resume.md > resume.txt
 
 
-# Create HTML version from Markdown.
-pandoc resume.md --output resume.html --section-divs --to html5 --standalone --template resume-template.html
+# Create HTML version from Markdown (via Kramdown).
+kramdown resume.md --template resume-template.html.erb > resume.html
 
 # Tidy up the HTML. (And tell tidy that the HTML5 <section> element is valid.)
 tidy -indent -bare -quiet -utf8 -modify --tidy-mark no --new-blocklevel-tags section resume.html 2>/dev/null
 
 
-# Create ODF text from Markdown.
-pandoc resume.md --output resume.odt
-
-
-# Create PDF from HTML (via pdflatex).
-pandoc resume.html --output resume.pdf --template resume-template.latex -V title='Craig Buchek'
+# Create PDF from HTML (via wkhtmltopdf).
+wkhtmltopdf --print-media-type --page-size "Letter" --encoding "UTF8" --title "Résumé - Craig Buchek" resume.html resume.pdf
