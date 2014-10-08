@@ -4,9 +4,9 @@ Hi
 Thanks for taking a look at my résumé.
 You're probably here to grab a copy in one of these formats:
 
-  * [HTML](https://rawgithub.com/booch/resume/master/resume.html)
-  * [PDF](https://rawgithub.com/booch/resume/master/resume.pdf)
-  * [text](https://raw.github.com/booch/resume/master/resume.txt)
+  * [HTML](https://rawgit.com/booch/resume/master/resume.html)
+  * [PDF](https://rawgit.com/booch/resume/master/resume.pdf)
+  * [text](https://raw.githubusercontent.com/booch/resume/master/resume.txt)
 
 -- Craig Buchek
 
