@@ -42,10 +42,8 @@ Technical Expertise
    * **Development practices**: Test-Driven Development (TDD), Behavior-Driven
      Development (BDD), pair programming, Continuous Integration (CI), Agile
      methodologies, source control
-   * **Development tools**: Git, Subversion, RSpec, Capybara, Cucumber, Selenium,
-     Capistrano
-   * **Operating systems**: GNU/Linux (Debian, Ubuntu, Red Hat), Mac OS X, Solaris,
-     Windows
+   * **Development tools**: Git, RSpec, Capybara, Cucumber, Selenium, Capistrano
+   * **Operating systems**: GNU/Linux (Debian, Ubuntu, Red Hat), Mac OS X, Windows
    * **Network services**: Web servers (Apache, Nginx), Web proxies (Squid),
      Email (Postfix), file services (Windows, Novell, Samba, NFS), DNS (BIND),
      LDAP (OpenLDAP)
@@ -58,7 +56,8 @@ Training and Conferences
 ------------------------
 
    * Pragmatic Programmers Advanced Rails Training - 2007
-   * RailsConf - 2007, 2008, 2010, 2014
+   * RubyConf - 2014 (presenter)
+   * RailsConf - 2007, 2008, 2010, 2014, 2015 (presenter)
    * Midwest Ruby Conference - 2011
    * Windy City Rails - 2011
    * Strange Loop - 2011, 2012, 2013
@@ -68,17 +67,6 @@ Training and Conferences
 
 Professional Experience
 -----------------------
-
-**Sr. Software Developer** at Liaison International (2013.09 - present)
-
-   * Worked to improve a large complex Ruby on Rails application.
-      * Increased test coverage.
-      * Reduced technical debt.
-      * Rearchitected several components.
-   * Helped transform a team to employ Agile practices to increase performance.
-      * Implemented retrospectives, pair programming, TDD, refactoring, 
-        continuous integration, code reviews.
-      * Mentored them to improve their Ruby skills.
 
 **Web Developer** at BoochTek, LLC (2006.12 - present)
 
@@ -98,6 +86,17 @@ Professional Experience
    * Developed source code revision control and deployment best practices to
      easily add features to production sites, with ability to back out changes
      quickly if necessary.
+
+**Sr. Software Developer** at Liaison International (2013.09 - 2014.11)
+
+   * Worked to improve a large complex Ruby on Rails application.
+      * Increased test coverage.
+      * Reduced technical debt.
+      * Rearchitected several components.
+   * Helped transform a team to employ Agile practices to increase performance.
+      * Implemented retrospectives, pair programming, TDD, refactoring, 
+        continuous integration, code reviews.
+      * Mentored them to improve their Ruby skills.
 
 **Cloud Engineer** at Express Scripts (2012.10 - 2013.09)
 
@@ -183,11 +182,11 @@ Community Involvement
       * Chairman, 2001 - 2014
    * Active member of St. Louis UNIX Users Group
       * Board of Directors, 2001 - 2004, 2007 - 2013
-      * Secretary, 2004 - present
+      * Secretary, 2004 - 2015
    * Presentations on various technical topics at various venues
       * Ruby, Ruby on Rails
       * jQuery, JavaScript, AJAX
-      * HTML, CSS, XML
+      * HTML, CSS, XML, HTTP
       * Open Source, licensing
 
 
