@@ -193,5 +193,5 @@ Community Involvement
 Education
 ---------
 
-   * Rose-Hulman Institute of Technology (Terre Haute, IN), 1989 - 1992.  
+   * Rose-Hulman Institute of Technology (Terre Haute, IN).  
      Computer Science major.
