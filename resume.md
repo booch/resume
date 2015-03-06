@@ -136,42 +136,6 @@ Professional Experience
       * MongoDB/Mongoid, ElasticSearch/Tire, Devise, HAML, SASS, Spine,
         CoffeeScript, Capybara, Cucumber, RSpec, Jasmine
 
-**System Administrator** at Savvis (2010.04 - 2010.10)
-
-   * Served as primary technical contact for top managed web hosting
-     customers.
-   * Provided 3rd-level support for GNU/Linux and UNIX web hosting customers.
-   * Troubleshot all manner of problems with hosting servers.
-      * Red Hat Enterprise Linux (4.x and 5.x) and Solaris (8 - 10)
-      * VMware ESX (3.5 and 4.0) and VirtualCenter
-      * HP C-class blade servers and Egenera blade frames
-   * Managed configuration of F5 BigIP and Cisco ACE load balancers.
-      * Managed installation of SSL certificates on load balancers.
-
-**Security Administrator/Designer** at Anheuser-Busch (2001.07 - 2006.12, 2008.04 - 2010.01)
-
-   * Developed web application to provide several different data views for
-     NAGIOS monitoring system.
-   * Developed several scripts to gather and display aggregate information
-     from firewall logs.
-   * Maintained Solaris and GNU/Linux operating systems.
-      * Monitored log files and developed performance metrics.
-      * Wrote scripts for various purposes, using UNIX shell, Perl, Python,
-        and PHP.
-   * Troubleshot network problems and implemented configuration fixes.
-      * Client PCs, servers, routers, switches, load balancers, firewalls,
-        proxies, WAN connections.
-      * Monitored and analyzed metrics to proactively prevent and diagnose
-        network problems.
-      * Captured, decoded, and interpreted network traffic to diagnose 
-        problems.
-   * Maintained SideWinder, SnapGear, Gauntlet, and CheckPoint firewalls.
-   * Worked to improve and streamline various processes and procedures.
-      * Remediated issues discovered in audits.
-      * Improved customer expectations and communication.
-   * Configured and maintained network load balancers (Radware FireProof,
-     Cisco 11K).
-
 
 Community Involvement
 ---------------------
