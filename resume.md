@@ -95,7 +95,7 @@ Professional Experience
       * Reduced technical debt.
       * Rearchitected several components.
    * Helped transform a team to employ Agile practices to increase performance.
-      * Implemented retrospectives, pair programming, TDD, refactoring, 
+      * Implemented retrospectives, pair programming, TDD, refactoring,
         continuous integration, code reviews.
       * Mentored them to improve their Ruby skills.
 
@@ -160,5 +160,5 @@ Community Involvement
 Education
 ---------
 
-   * Rose-Hulman Institute of Technology (Terre Haute, IN).  
+   * Rose-Hulman Institute of Technology (Terre Haute, IN).
      Computer Science major.
