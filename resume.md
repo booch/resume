@@ -70,15 +70,16 @@ Professional Experience
 
 **Web Developer** at BoochTek, LLC (2006.12 - present)
 
+   * Provided consulting services to companies implementing and upgrading web
+     sites.
    * Designed and implemented web applications for several companies.
       * Social networking hub, integrated with other social networking sites.
         (Rails)
+      * Patient portal for hospitals. (Node)
       * Management system to track tutoring sessions. (Rails)
       * Conversion of Access application for aggregating feedback forms. (Rails)
       * Online sales quote system. (Rails)
       * Web forms for non-profit companies. (PHP)
-   * Provided consulting services to companies implementing and upgrading web
-     sites.
    * Provided bug fixes and feature updates to existing web applications.
       * Reduced code size and complexity to simplify on-going site maintenance.
    * Developed bug tracking and feature request procedures and sites for
