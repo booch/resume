@@ -21,6 +21,7 @@ Summary
 Highlights
 ----------
 
+   * Helped several teams improve their processes and technical skills.
    * Built web sites in Ruby on Rails for several different companies.
    * Mentored developers in Agile methodologies and Java programming, in order
      to bring developer jobs back to the USA.
