@@ -120,7 +120,7 @@ Sr. Software Developer at Asynchrony Solutions (2010.10 - 2012.10)
          * Provisioned load-balanced servers for 200,000 concurrent users.
          * Assisted with system administration and configuration management
            tasks.
-      * Asset management system for a large company (12 million digital 
+      * Asset management system for a large company (12 million digital
        assets). (Java)
       * Developed, maintained, and documented APIs for several mobile client
        applications. (Rails)
@@ -150,7 +150,7 @@ Community Involvement
       * Board of Directors, 2001 - 2004, 2007 - 2013
       * Secretary, 2004 - 2015
    * Mentor for Roy Clay Sr. Tech Impact program
-      * Web design for underpriveleged youth
+      * Web design for underprivileged youth
    * Presentations on various technical topics at various venues
       * Ruby, Ruby on Rails
       * jQuery, JavaScript, AJAX
