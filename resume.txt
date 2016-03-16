@@ -39,12 +39,13 @@ Technical Expertise
      C, C++
    * Web development: HTML/CSS, JavaScript/AJAX, Ruby on Rails, jQuery,
      XML/XSLT
-   * Development practices: Test-Driven Development (TDD), Behavior-Driven
-     Development (BDD), pair programming, Continuous Integration (CI), Agile
-     methodologies, source control
+   * Development practices: Agile methodologies (XP, Kanban, Lean, Scrum),
+     test-driven development (TDD), behavior-driven development (BDD), pair
+     programming, continuous integration, source control, configuration
+     management (Ansible), deployment automation
    * Development tools: Git, RSpec, Capybara, Cucumber, Selenium, Capistrano
    * Operating systems: GNU/Linux (Debian, Ubuntu, Red Hat), Mac OS X, Windows
-   * Network services: Web servers (Apache, Nginx), Web proxies (Squid),
+   * Network services: Web servers (Apache, Nginx), Web proxies (HAProxy, Squid),
      Email (Postfix), file services (Windows, Novell, Samba, NFS), DNS (BIND),
      LDAP (OpenLDAP)
    * Technical communication: Written procedures, live presentations,
@@ -73,7 +74,9 @@ Web Developer at BoochTek, LLC (2006.12 - present)
 
    * Provided consulting services to companies implementing and upgrading web
      sites.
+   * Provided guidance on technical and process improvements.
    * Designed and implemented web applications for several companies.
+      * Deployment and management of Cloud Foundry clusters. (Java)
       * Social networking hub, integrated with other social networking sites.
         (Rails)
       * Patient portal for hospitals. (Node)
@@ -94,7 +97,7 @@ Sr. Software Developer at Liaison International (2013.09 - 2014.11)
    * Worked to improve a large complex Ruby on Rails application.
       * Increased test coverage.
       * Reduced technical debt.
-      * Rearchitected several components.
+      * Re-architected several components.
    * Helped transform a team to employ Agile practices to increase performance.
       * Implemented retrospectives, pair programming, TDD, refactoring,
         continuous integration, code reviews.
