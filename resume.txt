@@ -65,7 +65,6 @@ Training and Conferences
    * Madison+ Ruby - 2015 (presenter)
    * Strange Loop - 2011, 2012, 2013, 2015
       * Hadoop training - 2012
-   * OSCON (Open Source Conference) - 2003
 
 
 Professional Experience
