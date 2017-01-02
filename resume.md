@@ -69,7 +69,7 @@ Training and Conferences
 Professional Experience
 -----------------------
 
-**Engineering Manager (Acting) / Software Engineer** at CenturyLink Cloud (2015.12 - present)
+**Engineering Manager (Acting) / Software Engineer** at CenturyLink Cloud (2015 - present)
 
    * Managed a team of 6 implementing WordPress as a cloud service.
       * Improved team performance from 17 to 60 "points".
@@ -77,14 +77,14 @@ Professional Experience
    * Developed a monitoring system as a cloud service. (Sensu, Ruby, Docker)
    * Helped teams improve their Agile practices.
 
-**Consultant / Software Engineer** at Mercy (2014.11 - 2016.04)
+**Consultant / Software Engineer** at Mercy (2014 - 2016)
 
    * Helped to rewrite a patient portal for hospitals. (Node, Java, Angular)
    * Maintained legacy patient portal application through its end-of-life. (Rails)
    * Wrote application to help patients find local doctors by specialty. (Java, Spring Roo)
    * Helped teams improve their Agile practices.
 
-**Sr. Software Developer** at Liaison International (2013.09 - 2014.11)
+**Sr. Software Developer** at Liaison International (2013 - 2014)
 
    * Worked to improve a large complex Ruby on Rails application.
       * Increased test coverage.
@@ -95,7 +95,7 @@ Professional Experience
         continuous integration, code reviews.
       * Mentored them to improve their Ruby skills.
 
-**Cloud Engineer** at Express Scripts (2012.10 - 2013.09)
+**Cloud Engineer** at Express Scripts (2012 - 2013)
 
    * Worked on a team building an internal cloud infrastructure.
       * Automated deployment of Java applications to cloud servers.
@@ -106,7 +106,7 @@ Professional Experience
    * Acted as liaison to coordinate with other groups to push the company
      toward the strategic goal of utilizing the cloud infrastructure.
 
-**Sr. Software Developer** at Asynchrony Solutions (2010.10 - 2012.10)
+**Sr. Software Developer** at Asynchrony Solutions (2010 - 2012)
 
    * Designed, implemented, and deployed large-scale web applications for
      several companies.
@@ -133,7 +133,7 @@ Professional Experience
       * MongoDB/Mongoid, ElasticSearch/Tire, Devise, HAML, SASS, Spine,
         CoffeeScript, Capybara, Cucumber, RSpec, Jasmine
 
-**Consultant / Web Developer** at BoochTek, LLC (2006.12 - present)
+**Consultant / Web Developer** at BoochTek, LLC (2006 - present)
 
    * Provided consulting services to companies implementing and upgrading web
      sites.
