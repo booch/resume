@@ -68,27 +68,20 @@ Training and Conferences
 Professional Experience
 -----------------------
 
-**Web Developer** at BoochTek, LLC (2006.12 - present)
+**Engineering Manager (Acting) / Software Engineer** at CenturyLink Cloud (2015.12 - present)
 
-   * Provided consulting services to companies implementing and upgrading web
-     sites.
-   * Provided guidance on technical and process improvements.
-   * Designed and implemented web applications for several companies.
-      * Deployment and management of Cloud Foundry clusters. (Java)
-      * Social networking hub, integrated with other social networking sites.
-        (Rails)
-      * Patient portal for hospitals. (Node)
-      * Management system to track tutoring sessions. (Rails)
-      * Conversion of Access application for aggregating feedback forms. (Rails)
-      * Online sales quote system. (Rails)
-      * Web forms for non-profit companies. (PHP)
-   * Provided bug fixes and feature updates to existing web applications.
-      * Reduced code size and complexity to simplify on-going site maintenance.
-   * Developed bug tracking and feature request procedures and sites for
-     customers.
-   * Developed source code revision control and deployment best practices to
-     easily add features to production sites, with ability to back out changes
-     quickly if necessary.
+   * Managed a team of 6 implementing WordPress as a cloud service.
+      * Improved team performance from 17 to 60 "points".
+   * Managed a team of 14 deploying management of Cloud Foundry clusters. (Java)
+   * Developed a monitoring system as a cloud service. (Sensu, Ruby, Docker)
+   * Helped teams improve their Agile practices.
+
+**Consultant / Software Engineer** at Mercy (2014.11 - 2016.04)
+
+   * Helped to rewrite a patient portal for hospitals. (Node, Java, Angular)
+   * Maintained legacy patient portal application through its end-of-life. (Rails)
+   * Wrote application to help patients find local doctors by specialty. (Java, Spring Roo)
+   * Helped teams improve their Agile practices.
 
 **Sr. Software Developer** at Liaison International (2013.09 - 2014.11)
 
@@ -138,6 +131,26 @@ Professional Experience
    * Utilized cutting-edge technologies with Ruby on Rails:
       * MongoDB/Mongoid, ElasticSearch/Tire, Devise, HAML, SASS, Spine,
         CoffeeScript, Capybara, Cucumber, RSpec, Jasmine
+
+**Consultant / Web Developer** at BoochTek, LLC (2006.12 - present)
+
+   * Provided consulting services to companies implementing and upgrading web
+     sites.
+   * Provided guidance on technical and process improvements.
+   * Designed and implemented web applications for several companies.
+      * Social networking hub, integrated with other social networking sites.
+        (Rails)
+      * Management system to track tutoring sessions. (Rails)
+      * Conversion of Access application for aggregating feedback forms. (Rails)
+      * Online sales quote system. (Rails)
+      * Web forms for non-profit companies. (PHP)
+   * Provided bug fixes and feature updates to existing web applications.
+      * Reduced code size and complexity to simplify on-going site maintenance.
+   * Developed bug tracking and feature request procedures and sites for
+     customers.
+   * Developed source code revision control and deployment best practices to
+     easily add features to production sites, with ability to back out changes
+     quickly if necessary.
 
 
 Community Involvement
