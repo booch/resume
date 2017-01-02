@@ -54,8 +54,8 @@ Technical Expertise
      editing
 
 
-Training and Conferences
-------------------------
+Conferences
+-----------
 
    * RubyConf - 2014 (presenter), 2015 (presenter), 2016 (presenter)
    * RailsConf - 2007, 2008, 2010, 2014, 2015 (presenter), 2016
@@ -64,8 +64,8 @@ Training and Conferences
    * Windy City Rails - 2015
    * Midwest Ruby Conference - 2011
    * Strange Loop - 2011, 2012, 2013, 2015
-      * Hadoop training - 2012
-   * Pragmatic Programmers Advanced Rails Training - 2007
+   * RacketCon - 2015, 2016
+   * Elm-Conf - 2016
 
 
 Professional Experience
@@ -177,8 +177,14 @@ Community Involvement
       * Open Source, licensing
 
 
-Education
----------
+Education and Training
+----------------------
 
-   * Rose-Hulman Institute of Technology (Terre Haute, IN).
-     Computer Science major.
+   * Rose-Hulman Institute of Technology (Terre Haute, IN) -
+     Computer Science major
+
+   * Pragmatic Programmers Advanced Rails - 2007
+   * Strange Loop
+      * Hadoop - 2012
+      * Idris - 2015
+      * Elixir Phoenix - 2015
