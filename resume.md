@@ -55,14 +55,15 @@ Technical Expertise
 Training and Conferences
 ------------------------
 
-   * Pragmatic Programmers Advanced Rails Training - 2007
-   * RubyConf - 2014 (presenter), 2015 (presenter)
-   * RailsConf - 2007, 2008, 2010, 2014, 2015 (presenter)
-   * Midwest Ruby Conference - 2011
-   * Windy City Rails - 2011, 2015
+   * RubyConf - 2014 (presenter), 2015 (presenter), 2016 (presenter)
+   * RailsConf - 2007, 2008, 2010, 2014, 2015 (presenter), 2016
+   * Agile Alliance Technical Conference - 2017 (presenter)
    * Madison+ Ruby - 2015 (presenter)
+   * Windy City Rails - 2015
+   * Midwest Ruby Conference - 2011
    * Strange Loop - 2011, 2012, 2013, 2015
       * Hadoop training - 2012
+   * Pragmatic Programmers Advanced Rails Training - 2007
 
 
 Professional Experience
@@ -157,6 +158,8 @@ Community Involvement
 ---------------------
 
    * Co-host of This Agile Life podcast
+   * Founder of STL Elm User Group
+   * Co-founder of St. Louis chapter of PLIBMTTBHGATY
    * Active member of St. Louis Ruby Users Group
    * Active member of St. Louis GNU/Linux Users Group
       * Chairman, 2001 - 2014
