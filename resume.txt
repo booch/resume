@@ -33,22 +33,17 @@ Highlights
    * Co-host of This Agile Life podcast.
 
 
-Technical Expertise
--------------------
+Education and Training
+----------------------
 
-   * Programming languages: Ruby, JavaScript, UNIX shell, Python, Java, PHP,
-     C, C++
-   * Web development: HTML/CSS, JavaScript/AJAX, Ruby on Rails, jQuery,
-     XML/XSLT
-   * Development practices: Agile methodologies (XP, Kanban, Lean, Scrum),
-     test-driven development (TDD), behavior-driven development (BDD), pair
-     programming, continuous integration, source control, configuration
-     management (Ansible), deployment automation
-   * Development tools: Git, RSpec, Capybara, Cucumber, Selenium, Capistrano
-   * Operating systems: GNU/Linux (Debian, Ubuntu, Red Hat), Mac OS X, Windows
-   * Network services: Web servers (Apache, Nginx), Web proxies (HAProxy, Squid),
-     Email (Postfix), file services (Windows, Novell, Samba, NFS), DNS (BIND),
-     LDAP (OpenLDAP)
+   * Rose-Hulman Institute of Technology (Terre Haute, IN) -
+     Computer Science major
+
+   * Pragmatic Programmers Advanced Rails - 2007
+   * Strange Loop
+      * Hadoop - 2012
+      * Idris - 2015
+      * Elixir Phoenix - 2015
 
 
 Conferences
@@ -63,6 +58,7 @@ Conferences
    * Strange Loop - 2011, 2012, 2013, 2015
    * RacketCon - 2015, 2016
    * Elm-Conf - 2016
+
 
 
 Professional Experience
@@ -166,16 +162,3 @@ Community Involvement
       * Board of Directors, 2001 - 2004, 2007 - 2013
       * Secretary, 2004 - 2015
    * Mentor for Roy Clay Sr. Tech Impact program
-
-
-Education and Training
-----------------------
-
-   * Rose-Hulman Institute of Technology (Terre Haute, IN) -
-     Computer Science major
-
-   * Pragmatic Programmers Advanced Rails - 2007
-   * Strange Loop
-      * Hadoop - 2012
-      * Idris - 2015
-      * Elixir Phoenix - 2015
