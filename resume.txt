@@ -166,11 +166,6 @@ Community Involvement
       * Board of Directors, 2001 - 2004, 2007 - 2013
       * Secretary, 2004 - 2015
    * Mentor for Roy Clay Sr. Tech Impact program
-   * Presentations on various technical topics at various venues
-      * Ruby, Ruby on Rails
-      * jQuery, JavaScript, AJAX
-      * HTML, CSS, XML, HTTP
-      * Open Source, licensing
 
 
 Education and Training
