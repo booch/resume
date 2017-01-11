@@ -13,9 +13,10 @@ https://github.com/booch
 Summary
 -------
 
-   * Software developer with 20 years of IT experience. Experienced Ruby on
-     Rails web developer. Strong GNU/Linux system administration skills.
-     Strong knowledge of web technologies and network protocols.
+   * Agile player/coach, specializing in helping teams improve the way
+     they work — both their processes and their technical practices.
+   * Software developer with 20 years of IT experience.
+   * Experienced Ruby on Rails web developer with strong DevOps skills.
 
 
 Highlights
