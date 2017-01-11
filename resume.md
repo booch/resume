@@ -29,8 +29,7 @@ Highlights
    * Implemented method of automatically configuring cable modems for a large
      Internet Service Provider, with approximately 20,000 cable modem
      customers per site.
-   * Led and managed a small team to develop GNU/Linux training manuals.
-   * Very active member of local Ruby and GNU/Linux communities.
+   * Consistently active member of local developer communities.
    * Co-host of This Agile Life podcast.
 
 
@@ -50,9 +49,6 @@ Technical Expertise
    * **Network services**: Web servers (Apache, Nginx), Web proxies (HAProxy, Squid),
      Email (Postfix), file services (Windows, Novell, Samba, NFS), DNS (BIND),
      LDAP (OpenLDAP)
-   * **Technical communication**: Written procedures, live presentations,
-     training, development of training materials, technical writing, technical
-     editing
 
 
 Conferences
@@ -170,7 +166,6 @@ Community Involvement
       * Board of Directors, 2001 - 2004, 2007 - 2013
       * Secretary, 2004 - 2015
    * Mentor for Roy Clay Sr. Tech Impact program
-      * Web design for underprivileged youth
    * Presentations on various technical topics at various venues
       * Ruby, Ruby on Rails
       * jQuery, JavaScript, AJAX
