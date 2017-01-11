@@ -33,34 +33,6 @@ Highlights
    * Co-host of This Agile Life podcast.
 
 
-Education and Training
-----------------------
-
-   * Rose-Hulman Institute of Technology (Terre Haute, IN) -
-     Computer Science major
-
-   * Pragmatic Programmers Advanced Rails - 2007
-   * Strange Loop
-      * Hadoop - 2012
-      * Idris - 2015
-      * Elixir Phoenix - 2015
-
-
-Conferences
------------
-
-   * RubyConf - 2014 (presenter), 2015 (presenter), 2016 (presenter)
-   * RailsConf - 2007, 2008, 2010, 2014, 2015 (presenter), 2016
-   * Agile Alliance Technical Conference - 2017 (presenter)
-   * Madison+ Ruby - 2015 (presenter)
-   * Windy City Rails - 2015
-   * Midwest Ruby Conference - 2011
-   * Strange Loop - 2011, 2012, 2013, 2015
-   * RacketCon - 2015, 2016
-   * Elm-Conf - 2016
-
-
-
 Professional Experience
 -----------------------
 
@@ -171,3 +143,29 @@ Community Involvement
       * Board of Directors, 2001 - 2004, 2007 - 2013
       * Secretary, 2004 - 2015
    * Mentor for Roy Clay Sr. Tech Impact program
+
+
+Education and Training
+----------------------
+
+   * Rose-Hulman Institute of Technology (Terre Haute, IN) -
+     Computer Science major
+   * Pragmatic Programmers Advanced Rails - 2007
+   * Strange Loop
+      * Hadoop - 2012
+      * Idris - 2015
+      * Elixir Phoenix - 2015
+
+
+Conferences
+-----------
+
+   * RubyConf - 2014 (presenter), 2015 (presenter), 2016 (presenter)
+   * RailsConf - 2007, 2008, 2010, 2014, 2015 (presenter), 2016
+   * Agile Alliance Technical Conference - 2017 (presenter)
+   * Madison+ Ruby - 2015 (presenter)
+   * Windy City Rails - 2015
+   * Midwest Ruby Conference - 2011
+   * Strange Loop - 2011, 2012, 2013, 2015
+   * RacketCon - 2015, 2016
+   * Elm-Conf - 2016
