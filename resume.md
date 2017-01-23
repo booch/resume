@@ -13,9 +13,9 @@ https://github.com/booch
 Summary
 -------
 
-   * Agile player/coach, with a focus on improving the way teams work —
-     both their processes and their technical practices.
    * Software developer with 20 years of IT experience.
+   * Agile practitioner, with a focus on improving how teams work —
+     both their processes and their technical practices.
    * Experienced Ruby on Rails web developer with strong DevOps skills.
 
 
