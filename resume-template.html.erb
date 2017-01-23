@@ -14,8 +14,10 @@
       h1:first-of-type+p { float: right; margin: 5px 4px; padding-top: 40px; }
       h1:first-of-type+p+p { clear: both; float: left; margin: 5px 4px; }
       h1:first-of-type+p+p+p { float: right; margin: 5px 4px; }
-      h2 { font-size: 1.25em; }
+      h2 { font-size: 1.25em; page-break-after: avoid; }
       hr { clear: both; }
+      ul { page-break-before: avoid; }
+      p:nth-of-type(7) { page-break-after: always; } /* Work-around for `page-break-before: avoid` not working. */
     </style>
   </head>
 
