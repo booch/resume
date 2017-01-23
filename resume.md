@@ -26,9 +26,6 @@ Highlights
    * Built web sites in Ruby on Rails for several different companies.
    * Mentored developers in Agile methodologies and Java programming, in order
      to bring developer jobs back to the USA.
-   * Implemented method of automatically configuring cable modems for a large
-     Internet Service Provider, with approximately 20,000 cable modem
-     customers per site.
    * Consistently active member of local developer communities.
    * Co-host of This Agile Life podcast.
    * Frequent conference speaker.
