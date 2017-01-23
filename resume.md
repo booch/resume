@@ -152,7 +152,7 @@ Community Involvement
    * Roy Clay Sr. Tech Impact program - Instructor, Mentor
    * STL Ruby - Active member, Host
    * STL Elm - Founder, Host
-   * STL PLIBMTTBHGATY - Co-founder, Host
+   * STL Polyglots - Co-founder, Host
    * STLLUG - Member, Chairman (2001-2014)
    * SLUUG - Member, Board of Directors (2001-2004, 2007-2013), Secretary (2004-2015)
 
