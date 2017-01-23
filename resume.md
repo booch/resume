@@ -52,7 +52,10 @@ Tech Stack: Ruby, Sensu, Grape microservices, Docker, Ansible, Nginx, Bash, Rabb
    * Contributed to rewrite of hospital system's patient portal.
    * Maintained legacy patient portal through its end-of-life.
    * Wrote provider directory application for patients to find doctors by specialty.
+      * Developed in 5 weeks, on time and on budget.
    * Championed efforts to improve teams' Agile practices.
+      * Assessed existing practices.
+      * Recommended and implemented process improvements.
 
 Tech Stack: Ruby on Rails, Node, Angular, Java, Spring Roo, CoffeeScript
 
