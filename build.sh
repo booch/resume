@@ -14,4 +14,9 @@ tidy -indent -bare -quiet -utf8 -modify --tidy-mark no --new-blocklevel-tags sec
 
 
 # Create PDF from HTML (via wkhtmltopdf).
-wkhtmltopdf --print-media-type --page-size "Letter" --encoding "UTF8" --title "Résumé - Craig Buchek" resume.html resume.pdf
+erb footer.html.erb > footer.html
+wkhtmltopdf --print-media-type --page-size "Letter" --encoding "UTF8" \
+    --footer-html footer.html \
+    --margin-top 20pt --margin-bottom 20pt --margin-left 24pt --margin-right 24pt \
+    --title "Résumé - Craig Buchek" \
+    resume.html resume.pdf
