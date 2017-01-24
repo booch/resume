@@ -20,8 +20,7 @@ Summary
 Highlights
 ----------
 
-   * Led several teams, improving their processes and technical skills.
-   * Built web sites in Ruby on Rails for several different companies.
+   * Team lead, improving team processes and technical skills.
    * Mentored developers in Agile methodologies and Java programming, in order
      to bring developer jobs back to the USA.
    * Consistently active member of local developer communities.
@@ -34,9 +33,9 @@ Professional Experience
 
 **Engineering Manager / Software Engineer** at CenturyLink Cloud (2015 - present)
 
-   * Managed a team of 6 implementing WordPress as a cloud service.
+   * Managed a team of 6, implementing WordPress as a cloud service.
       * Boosted team productivity from 17 to 60 "points".
-   * Managed a team of 14 deploying management of Cloud Foundry clusters.
+   * Managed a team of 14, deploying Cloud Foundry clusters.
    * Built a monitoring system for cloud servers.
    * Promoted Agile practices within teams.
 
@@ -49,17 +48,16 @@ Tech Stack: Ruby, Sensu, Grape microservices, Docker, Ansible, Nginx, Bash, Rabb
    * Wrote provider directory application for patients to find doctors by specialty.
       * Developed in 5 weeks, on time and on budget.
    * Championed efforts to improve teams' Agile practices.
-      * Assessed existing practices.
-      * Recommended and implemented process improvements.
+      * Assessed existing practices, recommended and implemented process improvements.
 
 Tech Stack: Ruby on Rails, Node, Angular, Java, Spring Roo, CoffeeScript
 
 **Sr. Software Developer** at Liaison International (2013 - 2014)
 
-   * Improved and re-architected a complex application, increasing test coverage
-     and reducing technical debt.
+   * Improved and re-architected a complex application
+      * Increased test coverage and reduced technical debt.
    * Promoted Agile transformation efforts to increase team performance.
-      * Implemented retrospectives, pair programming, TDD, refactoring,
+      * Instituted retrospectives, pair programming, TDD, refactoring,
         continuous integration, code reviews.
       * Mentored teammates to improve their Ruby skills.
 
@@ -79,8 +77,7 @@ Tech Stack: Python, Java, Bash shell, F5 load balancers
 
 **Sr. Software Developer** at Asynchrony Solutions (2010 - 2012)
 
-   * Designed, implemented, and deployed large-scale web applications for
-     several companies.
+   * Designed, implemented, and deployed large-scale web applications.
       * Social networking and data gathering site for patients with type 1
         diabetes.
          * Provisioned load-balanced servers for 200,000 concurrent users.
@@ -106,9 +103,10 @@ Jenkins, JUnit
 
 **Consultant / Web Developer** at BoochTek, LLC (2006 - present)
 
-   * Consulting services to companies, implementing and upgrading web sites.
+   * Consulting services, implementing and upgrading web sites.
    * Guided companies with technical and process improvements.
-   * Designed and implemented web applications for several companies.
+   * Designed and implemented web applications for small businesses and
+     non-profits.
       * Social networking hub, integrated with other social networking sites.
       * Management system to track tutoring sessions.
       * Conversion of Access application for aggregating feedback forms.
