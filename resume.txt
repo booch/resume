@@ -31,7 +31,7 @@ Highlights
 Professional Experience
 -----------------------
 
-Engineering Manager / Software Engineer at CenturyLink Cloud (2015 - present)
+Engineering Manager / Software Engineer at CenturyLink Cloud (2015 - 2017)
 
    * Managed a team of 6, implementing WordPress as a cloud service.
       * Boosted team productivity from 17 to 60 "points".
