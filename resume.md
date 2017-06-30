@@ -160,3 +160,4 @@ Conferences
    * Strange Loop - 2011, 2012, 2013, 2015
    * RacketCon - 2015, 2016
    * Elm-Conf - 2016
+   * Elm Europe - 2017
