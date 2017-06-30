@@ -39,7 +39,7 @@ Professional Experience
    * Built a monitoring system for cloud servers.
    * Promoted Agile practices within teams.
 
-Tech Stack: Ruby, Sensu, Grape microservices, Docker, Ansible, Nginx, Bash, RabbitMQ
+Tech Stack: Ruby, Sensu, Grape microservices, Docker, Ansible, Nginx, Bash, Kubernetes, RabbitMQ
 
 **Consultant / Software Engineer** at Mercy (2014 - 2016)
 
