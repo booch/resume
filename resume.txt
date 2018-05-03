@@ -37,7 +37,7 @@ Sr. Software Developer at F5 Networks (2017 - present)
    * Upgraded web app to Rails 5.0.
    * Promoted Agile practices within team.
 
-Tech Stack: Ruby, Rails, Ansible, Nginx, Sidekiq, CoffeeScript, Vue
+Tech Stack: Ruby, Rails, Ansible, Nginx, Sidekiq, CoffeeScript, Vue.js
 
 Engineering Manager / Software Engineer at CenturyLink Cloud (2015 - 2017)
 
@@ -159,8 +159,8 @@ Community Involvement
 Conferences
 -----------
 
-   * RubyConf - 2014 (presenter), 2015 (presenter), 2016 (presenter)
-   * RailsConf - 2007, 2008, 2010, 2014, 2015 (presenter), 2016
+   * RubyConf - 2014 (presenter), 2015 (presenter), 2016 (presenter), 2017
+   * RailsConf - 2007, 2008, 2010, 2014, 2015 (presenter), 2016, 2018 (presenter)
    * Agile Alliance Technical Conference - 2017 (presenter)
    * Madison+ Ruby - 2015 (presenter)
    * Windy City Rails - 2015
