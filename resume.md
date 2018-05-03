@@ -11,7 +11,7 @@ craig@boochtek.com
 Summary
 -------
 
-   * Software developer with 20 years of IT experience.
+   * Software developer with over 20 years of IT experience.
    * Agile practitioner, with a focus on improving how teams work —
      both their processes and their technical practices.
    * Experienced Ruby on Rails web developer with strong DevOps skills.
@@ -30,6 +30,14 @@ Highlights
 
 Professional Experience
 -----------------------
+
+**Sr. Software Developer** at F5 Networks (2017 - present)
+
+   * Developed web app for network services (load balancers, proxies, DDoS prevention).
+   * Upgraded web app to Rails 5.0.
+   * Promoted Agile practices within team.
+
+Tech Stack: Ruby, Rails, Ansible, Nginx, Sidekiq, CoffeeScript, Vue
 
 **Engineering Manager / Software Engineer** at CenturyLink Cloud (2015 - 2017)
 
