@@ -74,8 +74,7 @@ Resque
 
 **Cloud Engineer** at Express Scripts (2012 - 2013)
 
-   * Built an internal cloud infrastructure.
-      * Automated deployment of Java applications to cloud servers.
+   * Built an internal cloud infrastructure, automating deployment of Java applications.
    * Developed web interface to view information about web applications
      deployed to the cloud.
    * Coordinated with other development groups to advance the company
@@ -89,8 +88,6 @@ Tech Stack: Python, Java, Bash shell, F5 load balancers
       * Social networking and data gathering site for patients with type 1
         diabetes.
          * Provisioned load-balanced servers for 200,000 concurrent users.
-         * Assisted with system administration and configuration management
-           tasks.
       * Asset management system for a large company (12 million digital
        assets).
       * Developed, maintained, and documented APIs for several mobile client
