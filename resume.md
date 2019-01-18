@@ -62,7 +62,7 @@ Tech Stack: Ruby on Rails, Node, Angular, Java, Spring Roo, CoffeeScript
 
 **Sr. Software Developer** at Liaison International (2013 - 2014)
 
-   * Improved and re-architected a complex application
+   * Improved and rearchitected a complex application
       * Increased test coverage and reduced technical debt.
    * Promoted Agile transformation efforts to increase team performance.
       * Instituted retrospectives, pair programming, TDD, refactoring,
