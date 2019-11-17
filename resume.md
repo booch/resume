@@ -31,7 +31,17 @@ Highlights
 Professional Experience
 -----------------------
 
-**Sr. Software Developer** at F5 Networks (2017 - present)
+**Sr. Software Developer** at Ghost Management Group (2019)
+
+   * Built web app for a retail marketplace in a fast-growing industry.
+      * Management of retailers and products.
+      * Categorization and tagging of products.
+   * Implemented and consumed APIs within a complex service-oriented architecture.
+   * Promoted Agile practices within team.
+
+Tech Stack: Ruby, Rails, Grape, RSpec, Sidekiq, CoffeeScript, jQuery
+
+**Sr. Software Developer** at F5 Networks (2017 - 2019)
 
    * Developed web app for network services (load balancers, proxies, DDoS prevention).
    * Upgraded web app to Rails 5.0.
@@ -62,7 +72,7 @@ Tech Stack: Ruby on Rails, Node, Angular, Java, Spring Roo, CoffeeScript
 
 **Sr. Software Developer** at Liaison International (2013 - 2014)
 
-   * Improved and re-architected a complex application
+   * Improved and re-architected a complex application.
       * Increased test coverage and reduced technical debt.
    * Promoted Agile transformation efforts to increase team performance.
       * Instituted retrospectives, pair programming, TDD, refactoring,
@@ -89,9 +99,9 @@ Tech Stack: Python, Java, Bash shell, F5 load balancers
         diabetes.
          * Provisioned load-balanced servers for 200,000 concurrent users.
       * Asset management system for a large company (12 million digital
-       assets).
+        assets).
       * Developed, maintained, and documented APIs for several mobile client
-       applications.
+        applications.
    * Practiced Agile/Lean methodologies: pair programming, Kanban, acceptance
      testing, TDD, BDD, refactoring, continuous integration, retrospectives.
    * Traveled to and consulted at a large corporation (7000 employees) to
@@ -125,7 +135,7 @@ Jenkins, JUnit
      easily add features to production sites, with ability to back out changes
      quickly if necessary.
 
-Tech Stack: Ruby on Rails, RSpec, PHP
+Tech Stack: Ruby on Rails, RSpec, PHP, jQuery
 
 
 Education and Training
@@ -144,10 +154,10 @@ Education and Training
 Community Involvement
 ---------------------
 
+   * STL Ruby - Co-organizer
+   * STL Polyglots - Co-founder
    * This Agile Life podcast - Co-host
    * Roy Clay Sr. Tech Impact program - Instructor, Mentor
-   * STL Ruby - Organizer
-   * STL Polyglots - Co-founder
    * STL Elm - Founder
    * STLLUG - Chairman (2001-2014)
    * SLUUG - Board of Directors (2001-2004, 2007-2013), Secretary (2004-2015)
@@ -156,11 +166,11 @@ Community Involvement
 Conferences
 -----------
 
-   * RubyConf - 2014 (presenter), 2015 (presenter), 2016 (presenter), 2017, 2018
-   * RailsConf - 2007, 2008, 2010, 2014, 2015 (presenter), 2016, 2018 (presenter)
+   * RubyConf - 2014 (presenter), 2015 (presenter), 2016 (presenter), 2017, 2018, 2019
+   * RailsConf - 2007, 2008, 2010, 2014, 2015 (presenter), 2016, 2018 (presenter), 2019 (presenter)
    * Agile Alliance Technical Conference - 2017 (presenter)
    * Madison+ Ruby - 2015 (presenter)
-   * Southeast Ruby - 2018
+   * Southeast Ruby - 2018, 2019
    * Windy City Rails - 2015
    * Midwest Ruby Conference - 2011
    * Strange Loop - 2011, 2012, 2013, 2015, 2016, 2017, 2018
