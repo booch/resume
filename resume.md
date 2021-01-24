@@ -11,8 +11,8 @@ craig@boochtek.com
 Summary
 -------
 
-* Software developer with over 20 years of IT experience.
-* Agile practitioner, with a focus on improving how teams work —
+* Software engineer with over 25 years of IT experience.
+* Agile player/coach, focused on improving how teams work —
   both their processes and their technical practices.
 * Experienced Ruby on Rails web developer with strong DevOps skills.
 
@@ -21,11 +21,9 @@ Highlights
 ----------
 
 * Team lead, improving team processes and technical skills.
-* Mentored developers in Agile methodologies and Java programming, in order
-  to bring developer jobs back to the USA.
+* Mentored developers in Agile methodologies and Java programming.
 * Consistently active member of local developer communities.
-* Co-host of This Agile Life podcast.
-* Frequent conference speaker.
+* Frequent speaker at conferences and local user groups.
 
 
 Professional Experience
@@ -51,7 +49,7 @@ Tech Stack: Ruby, Rails, Sidekiq, RSpec, jQuery, Kubernetes, AWS, Terraform
 
 **Sr. Software Developer** at Ghost Management Group (2019)
 
-* Built web app for a retail marketplace in a growing industry.
+* Built web app for a retail marketplace in a fast-growing industry.
     * Management of retailers and products.
     * Categorization and tagging of products.
 * Implemented and consumed APIs within a complex service-oriented
@@ -69,7 +67,7 @@ Tech Stack: Ruby, Rails, Grape, RSpec, Sidekiq, CoffeeScript, jQuery
 
 Tech Stack: Ruby, Rails, Ansible, Nginx, Sidekiq, CoffeeScript, Vue.js
 
-**Engineering Manager / Software Engineer** at CenturyLink Cloud (2015 - 2017)
+**Engineering Manager, Software Engineer** at CenturyLink Cloud (2015 - 2017)
 
 * Managed a team of 6, implementing WordPress as a cloud service.
     * Boosted team productivity from 17 to 60 "points".
@@ -80,18 +78,17 @@ Tech Stack: Ruby, Rails, Ansible, Nginx, Sidekiq, CoffeeScript, Vue.js
 Tech Stack: Ruby, Sensu, Grape microservices, Docker, Ansible, Nginx, Bash,
 Kubernetes, RabbitMQ
 
-**Consultant / Software Engineer** at Mercy (2014 - 2016)
+**Consultant, Software Engineer** at Mercy (2014 - 2016)
 
 * Contributed to rewrite of hospital system's patient portal.
 * Maintained legacy patient portal through its end-of-life.
-* Wrote provider directory application for patients to find doctors by
-  specialty.
+* Wrote application for patients to find doctors by specialty.
     * Developed in 5 weeks, on time and on budget.
 * Championed efforts to improve teams' Agile practices.
     * Assessed existing practices, recommended and implemented process
       improvements.
 
-Tech Stack: Ruby on Rails, Node, Angular, Java, Spring Roo, CoffeeScript
+Tech Stack: Ruby, Rails, Node, Angular, Java, Spring Roo, CoffeeScript
 
 **Sr. Software Developer** at Liaison International (2013 - 2014)
 
@@ -102,7 +99,7 @@ Tech Stack: Ruby on Rails, Node, Angular, Java, Spring Roo, CoffeeScript
       continuous integration, code reviews.
     * Mentored teammates to improve their Ruby skills.
 
-Tech Stack: Ruby on Rails, RabbitMQ, RSpec, Capybara, PostgreSQL, HAML,
+Tech Stack: Ruby, Rails, RabbitMQ, RSpec, Capybara, PostgreSQL, HAML,
 jQuery, Resque
 
 **Cloud Engineer** at Express Scripts (2012 - 2013)
@@ -128,22 +125,22 @@ Tech Stack: Python, Java, Bash shell, F5 load balancers
       applications.
 * Practiced Agile/Lean methodologies: pair programming, Kanban, acceptance
   testing, TDD, BDD, refactoring, continuous integration, retrospectives.
-* Traveled to and consulted at a large corporation (7000 employees) to
-  teach their developers how to implement Agile practices.
+* Consulted at a large corporation (7000 employees) to teach developers
+  how to implement Agile practices.
     * Implemented pair programming, Kanban, TDD, refactoring, continuous
       integration.
     * Mentored them to improve their Java skills.
 * Adopted architectural practices more amenable to large-scale use with
   Rails.
 
-Tech Stack: Ruby on Rails, MongoDB, ElasticSearch, Devise, HAML, SASS,
+Tech Stack: Ruby, Rails, MongoDB, ElasticSearch, Devise, HAML, SASS,
 Spine, CoffeeScript, Capybara, Cucumber, RSpec, Jasmine, Java,
 Cucumber-JVM, Selenium, Jenkins, JUnit
 
-**Consultant / Web Developer** at BoochTek, LLC (2006 - present)
+**Consultant** at BoochTek, LLC (2006 - present)
 
 * Consulting services, implementing and upgrading web sites.
-* Guided companies with technical and process improvements.
+* Guided companies in establishing technical and process improvements.
 * Designed and implemented web applications for small businesses and
   non-profits.
     * Social networking hub, integrated with other social networking sites.
@@ -160,7 +157,7 @@ Cucumber-JVM, Selenium, Jenkins, JUnit
   easily add features to production sites, with ability to back out changes
   quickly if necessary.
 
-Tech Stack: Ruby on Rails, RSpec, PHP, jQuery
+Tech Stack: Ruby, Rails, RSpec, PHP, jQuery
 
 
 Education and Training
@@ -179,9 +176,10 @@ Education and Training
 Community Involvement
 ---------------------
 
+* STL Tech Slack - Co-admin
 * STL Ruby - Co-organizer
 * STL Polyglots - Co-founder
-* This Agile Life podcast - Co-host
+* This Agile Life podcast - Co-host (2013-2019)
 * Roy Clay Sr. Tech Impact program - Instructor, Mentor
 * STL Elm - Founder
 * STLLUG - Chairman (2001-2014)
@@ -192,7 +190,7 @@ Conferences
 -----------
 
 * RubyConf - 2014 (presenter), 2015 (presenter), 2016 (presenter), 2017,
-  2018, 2019
+  2018, 2019, 2020
 * RailsConf - 2007, 2008, 2010, 2014, 2015 (presenter), 2016,
   2018 (presenter), 2019 (presenter)
 * Agile Alliance Technical Conference - 2017 (presenter)
