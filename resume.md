@@ -31,6 +31,24 @@ Highlights
 Professional Experience
 -----------------------
 
+**Principal Software Engineer** at Binary Noggin (2019 - 2021)
+
+* Built web back-end to manage electronic poll books and aggregate data.
+* Guided development team to make improvements to processes and technical
+  practices.
+    * Agile practices: retrospectives, TDD, pair programming, Kanban.
+* Improved application performance, in preparation for traffic spike due to
+  presidential election.
+    * Added telemetry/metrics to track performance.
+    * Optimized MySQL queries and indexes.
+    * Employed background jobs and batching.
+    * Tuned Kubernetes settings for scaling pods to meet load demands.
+    * Implemented load shedding.
+* Upgraded application from Rails 4.2 to 6.0.
+* Automated infrastructure build-out.
+
+Tech Stack: Ruby, Rails, Sidekiq, RSpec, jQuery, Kubernetes, AWS, Terraform
+
 **Sr. Software Developer** at Ghost Management Group (2019)
 
 * Built web app for a retail marketplace in a growing industry.
