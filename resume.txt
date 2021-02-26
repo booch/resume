@@ -167,9 +167,6 @@ Community Involvement
 * STL Polyglots - Co-founder
 * This Agile Life podcast - Co-host (2013-2019)
 * Roy Clay Sr. Tech Impact program - Instructor, Mentor
-* STL Elm - Founder
-* STLLUG - Chairman (2001-2014)
-* SLUUG - Board of Directors (2001-2004, 2007-2013), Secretary (2004-2015)
 
 
 Conferences
@@ -185,6 +182,3 @@ Conferences
 * Windy City Rails - 2015
 * Midwest Ruby Conference - 2011
 * Strange Loop - 2011, 2012, 2013, 2015, 2016, 2017, 2018
-* RacketCon - 2015, 2016, 2018
-* Elm-Conf - 2016, 2017, 2018
-* Elm Europe - 2017
