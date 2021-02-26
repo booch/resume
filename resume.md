@@ -152,17 +152,11 @@ Spine, CoffeeScript, Capybara, Cucumber, RSpec, Jasmine, Java,
 Cucumber-JVM, Selenium, Jenkins, JUnit
 
 
-Education and Training
-----------------------
+Education
+---------
 
 * Rose-Hulman Institute of Technology (Terre Haute, IN) -
   Computer Science major
-
-* Pragmatic Programmers Advanced Rails - 2007
-* Strange Loop
-    * Hadoop - 2012
-    * Idris - 2015
-    * Elixir Phoenix - 2015
 
 
 Community Involvement
