@@ -13,14 +13,13 @@ Summary
 
 * Software engineer with over 25 years of industry experience.
 * Agile player/coach, focused on improving how teams work —
-  both their processes and their technical practices.
+  including processes and technical practices.
 * Experienced Ruby on Rails web developer with strong DevOps skills.
 
 
 Highlights
 ----------
 
-* Team lead, improving team processes and technical skills.
 * Mentored developers in Agile methodologies and Java programming.
 * Consistently active member of local developer communities.
 * Frequent speaker at conferences and local user groups.
@@ -29,7 +28,22 @@ Highlights
 Professional Experience
 -----------------------
 
-**Principal Software Engineer** at Binary Noggin (2019 - 2021)
+**Director of Developer Excellence** at BoochTek, LLC (2006 - present)
+
+* Guided companies in establishing technical and process improvements.
+    * Embedded within development teams as Agile player/coach.
+* Consulting services, implementing and upgrading web sites.
+    * Reduced code size and complexity to simplify on-going site
+      maintenance.
+* Designed and implemented web applications for small businesses and
+  non-profits.
+    * Social networking hub, integrated with other social networking sites.
+    * Management system to track tutoring sessions.
+    * Conversion of Access application for aggregating feedback forms.
+
+Tech Stack: Ruby, Rails, RSpec, jQuery
+
+**Principal Software Engineer** at Binary Noggin (2019 - present)
 
 * Built web back-end to manage electronic poll books and aggregate data.
 * Guided development team to make improvements to processes and technical
@@ -136,28 +150,6 @@ Tech Stack: Python, Java, Bash shell, F5 load balancers
 Tech Stack: Ruby, Rails, MongoDB, ElasticSearch, Devise, HAML, SASS,
 Spine, CoffeeScript, Capybara, Cucumber, RSpec, Jasmine, Java,
 Cucumber-JVM, Selenium, Jenkins, JUnit
-
-**Consultant** at BoochTek, LLC (2006 - present)
-
-* Consulting services, implementing and upgrading web sites.
-* Guided companies in establishing technical and process improvements.
-* Designed and implemented web applications for small businesses and
-  non-profits.
-    * Social networking hub, integrated with other social networking sites.
-    * Management system to track tutoring sessions.
-    * Conversion of Access application for aggregating feedback forms.
-    * Online sales quote system.
-    * Web forms for non-profit companies.
-* Provided bug fixes and feature updates to existing web applications.
-    * Reduced code size and complexity to simplify on-going site
-      maintenance.
-* Established bug tracking and feature request procedures and sites for
-  customers.
-* Implemented source code revision control and deployment best practices to
-  easily add features to production sites, with ability to back out changes
-  quickly if necessary.
-
-Tech Stack: Ruby, Rails, RSpec, PHP, jQuery
 
 
 Education and Training
