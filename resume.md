@@ -11,7 +11,7 @@ craig@boochtek.com
 Summary
 -------
 
-* Software engineer with over 25 years of IT experience.
+* Software engineer with over 25 years of industry experience.
 * Agile player/coach, focused on improving how teams work —
   both their processes and their technical practices.
 * Experienced Ruby on Rails web developer with strong DevOps skills.
