@@ -169,16 +169,10 @@ Community Involvement
 * Roy Clay Sr. Tech Impact program - Instructor, Mentor
 
 
-Conferences
------------
+Conference Talks
+----------------
 
-* RubyConf - 2014 (presenter), 2015 (presenter), 2016 (presenter), 2017,
-  2018, 2019, 2020
-* RailsConf - 2007, 2008, 2010, 2014, 2015 (presenter), 2016,
-  2018 (presenter), 2019 (presenter)
-* Agile Alliance Technical Conference - 2017 (presenter)
-* Madison+ Ruby - 2015 (presenter)
-* Southeast Ruby - 2018, 2019
-* Windy City Rails - 2015
-* Midwest Ruby Conference - 2011
-* Strange Loop - 2011, 2012, 2013, 2015, 2016, 2017, 2018
+* RubyConf - 2014, 2015, 2016
+* RailsConf - 2015, 2018, 2019
+* Agile Alliance Technical Conference - 2017
+* Madison+ Ruby - 2015
