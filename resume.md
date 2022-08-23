@@ -28,6 +28,17 @@ Highlights
 Professional Experience
 -----------------------
 
+**Staff Software Engineer** at True Link Financial (2022)
+
+* Built web app to manage financial services.
+    * Management of restrictions on pre-paid debit cards.
+    * Investment tracking for pooled special needs trusts.
+* Promoted advanced technical practices among the development team.
+    * Presentation on how to improve testing.
+* Resolved issues with receiving duplicate transaction notifications.
+
+Tech Stack: Ruby, Rails, RSpec, AWS, React
+
 **Director of Developer Excellence** at BoochTek, LLC (2006 - present)
 
 * Guided companies in establishing technical and process improvements.
@@ -43,7 +54,7 @@ Professional Experience
 
 Tech Stack: Ruby, Rails, RSpec, jQuery
 
-**Principal Software Engineer** at Binary Noggin (2019 - present)
+**Principal Software Engineer** at Binary Noggin (2019 - 2021)
 
 * Built web back-end to manage electronic poll books and aggregate data.
 * Guided development team to make improvements to processes and technical
