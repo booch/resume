@@ -11,9 +11,9 @@ craig@boochtek.com
 Summary
 -------
 
+* Agile player-coach, focused on continuously improving how teams work —
+  including processes, technical practices, and automation.
 * Software engineer with over 25 years of industry experience.
-* Agile player/coach, focused on improving how teams work —
-  including processes and technical practices.
 * Experienced Ruby on Rails web developer with strong DevOps skills.
 
 
@@ -28,11 +28,34 @@ Highlights
 Professional Experience
 -----------------------
 
+**Staff Software Engineer** at DebtBook (2022 - present)
+
+* Built web app to manage financial accounting for local governments.
+    * Maintained and built functionality for management of public debt,
+      leases, and software subscriptions.
+    * Ensured compliance with government accounting standards (GASB, FASB).
+* Transformed engineering practices to meet the needs of a startup growing
+  from a small company to a mid-sized company.
+    * Focused on building maintainable, reliable, scalable, and performant
+      code.
+    * Improved processes, workflow, and automation.
+* Promoted advanced technical practices among the engineering team.
+    * Provided code reviews, ensuring quality and providing learning
+      opportunities.
+    * Mentored junior developers.
+* Led several large projects.
+    * Made architecture decisions.
+* Grew team from 4 to 12 developers in 1 year.
+    * Interviewed and assessed candidates.
+    * Streamlined, documented, and automated onboarding process.
+
+Tech Stack: Ruby, Rails, Sidekiq, React, Docker Compose, PostgreSQL, GitLab
+
 **Staff Software Engineer** at True Link Financial (2022)
 
 * Built web app to manage financial services.
     * Management of restrictions on pre-paid debit cards.
-    * Investment tracking for pooled special needs trusts.
+    * Investment tracking for pooled special-needs trusts.
 * Promoted advanced technical practices among the development team.
     * Presentation on how to improve testing.
 * Resolved issues with receiving duplicate transaction notifications.
@@ -72,7 +95,7 @@ Tech Stack: Ruby, Rails, RSpec, jQuery
 
 Tech Stack: Ruby, Rails, Sidekiq, RSpec, jQuery, Kubernetes, AWS, Terraform
 
-**Sr. Software Developer** at Ghost Management Group (2019)
+**Sr. Software Developer** at Weedmaps (2019)
 
 * Built web app for a retail marketplace in a fast-growing industry.
     * Management of retailers and products.
@@ -103,64 +126,31 @@ Tech Stack: Ruby, Rails, Ansible, Nginx, Sidekiq, CoffeeScript, Vue.js
 Tech Stack: Ruby, Sensu, Grape microservices, Docker, Ansible, Nginx, Bash,
 Kubernetes, RabbitMQ
 
-**Consultant, Software Engineer** at Mercy (2014 - 2016)
-
-* Contributed to rewrite of hospital system's patient portal.
-* Maintained legacy patient portal through its end-of-life.
-* Wrote application for patients to find doctors by specialty.
-    * Developed in 5 weeks, on time and on budget.
-* Championed efforts to improve teams' Agile practices.
-    * Assessed existing practices, recommended and implemented process
-      improvements.
-
-Tech Stack: Ruby, Rails, Node, Angular, Java, Spring Roo, CoffeeScript
-
-**Sr. Software Developer** at Liaison International (2013 - 2014)
-
-* Improved and re-architected a complex application.
-    * Increased test coverage and reduced technical debt.
-* Promoted Agile transformation efforts to increase team performance.
-    * Instituted retrospectives, pair programming, TDD, refactoring,
-      continuous integration, code reviews.
-    * Mentored teammates to improve their Ruby skills.
-
-Tech Stack: Ruby, Rails, RabbitMQ, RSpec, Capybara, PostgreSQL, HAML,
-jQuery, Resque
-
-**Cloud Engineer** at Express Scripts (2012 - 2013)
-
-* Built an internal cloud infrastructure, automating deployment of Java
-  applications.
-* Developed web interface to view information about web applications
-  deployed to the cloud.
-* Coordinated with other development groups to advance the company toward
-  the strategic goal of utilizing the cloud infrastructure.
-
-Tech Stack: Python, Java, Bash shell, F5 load balancers
-
-**Sr. Software Developer** at Asynchrony Solutions (2010 - 2012)
+**Previous**
 
 * Designed, implemented, and deployed large-scale web applications.
-    * Social networking and data gathering site for patients with type 1
+    * Social networking and data-gathering site for patients with type 1
       diabetes.
         * Provisioned load-balanced servers for 200,000 concurrent users.
     * Asset management system for a large company (12 million digital
       assets).
     * Developed, maintained, and documented APIs for several mobile client
       applications.
-* Practiced Agile/Lean methodologies: pair programming, Kanban, acceptance
-  testing, TDD, BDD, refactoring, continuous integration, retrospectives.
+    * Contributed to rewrite of a hospital system's patient portal.
+    * Wrote application for patients to find doctors by specialty.
+        * Developed in 5 weeks, on time and on budget.
 * Consulted at a large corporation (7000 employees) to teach developers
   how to implement Agile practices.
     * Implemented pair programming, Kanban, TDD, refactoring, continuous
       integration.
     * Mentored them to improve their Java skills.
-* Adopted architectural practices more amenable to large-scale use with
-  Rails.
+* Promoted Agile/Lean methodologies to increase team performance.
+    * Instituted retrospectives, pair programming, Kanban, TDD, BDD,
+      acceptance testing, refactoring, CI.
+* Built an internal cloud infrastructure, automating deployment of Java
+  applications.
 
-Tech Stack: Ruby, Rails, MongoDB, ElasticSearch, Devise, HAML, SASS,
-Spine, CoffeeScript, Capybara, Cucumber, RSpec, Jasmine, Java,
-Cucumber-JVM, Selenium, Jenkins, JUnit
+Tech skills: Ruby, Rails, Python, Bash shell, Java, HTML, HAML, CSS, SASS, F5 load balancers, Capybara, Cucumber, Jasmine, Cucumber-JVM, Selenium, Jenkins, JUnit, MongoDB, ElasticSearch, Devise, CoffeeScript
 
 
 Education
@@ -183,7 +173,7 @@ Community Involvement
 Conference Talks
 ----------------
 
-* RubyConf - 2014, 2015, 2016
+* RubyConf - 2014, 2015, 2016, 2023
 * RailsConf - 2015, 2018, 2019
 * Agile Alliance Technical Conference - 2017
 * Madison+ Ruby - 2015
