@@ -26,3 +26,12 @@ generate PDFs.
 Having my résumé in git will also help me track changes over time. And
 it will give me the possibility of "forking" my résumé for different
 purposes.
+
+
+TODO
+----
+
+Try a Markdown-to-text processor to create the text version:
+- mdcat
+- glow
+- [tty-markdown](https://github.com/piotrmurach/tty-markdown)
