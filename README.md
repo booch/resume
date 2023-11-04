@@ -23,15 +23,6 @@ formats from that. I tried using MultiMarkdown at first, then used Pandoc
 for a while. I'm now using Kramdown for HTML generation, and wkhtmltopdf to
 generate PDFs.
 
-Having my résumé in git will also help me track changes over time. And
-it will give me the possibility of "forking" my résumé for different
-purposes.
-
-
-TODO
-----
-
-Try a Markdown-to-text processor to create the text version:
-- mdcat
-- glow
-- [tty-markdown](https://github.com/piotrmurach/tty-markdown)
+Having [my résumé in git](https://github.com/booch/resume/) will also help me
+track changes over time. And it will give me the possibility of "forking" my
+résumé for different purposes.
