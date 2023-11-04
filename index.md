@@ -1,5 +1,9 @@
-Hi
-==
+---
+title: "Craig Buchek's résumé"
+description: ""
+---
+
+Hi,
 
 Thanks for taking a look at my résumé.
 You're probably here to grab a copy in one of these formats:
