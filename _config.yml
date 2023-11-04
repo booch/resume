@@ -1,1 +1,5 @@
-theme: tactile
+title: "Craig Buchek's résumé"
+description: ""
+theme: "Tactile"
+github:
+    public: false
