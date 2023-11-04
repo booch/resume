@@ -1,10 +1,13 @@
-title: "Craig Buchek's résumé"
-description: ""
+
 remote_theme: "pages-themes/tactile@v0.2.0"
 plugins:
 - jekyll-remote-theme
 
 # Theme configuration.
+page:
+  title: "Craig Buchek's résumé"
+  description: ""
 show_downloads: false
 github:
   public: false
+  is_project_page: false
