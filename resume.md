@@ -62,21 +62,6 @@ Tech Stack: Ruby, Rails, Sidekiq, React, Docker Compose, PostgreSQL, GitLab
 
 Tech Stack: Ruby, Rails, RSpec, AWS, React
 
-**Director of Developer Excellence** at BoochTek, LLC (2006 - present)
-
-* Guided companies in establishing technical and process improvements.
-    * Embedded within development teams as Agile player/coach.
-* Consulting services, implementing and upgrading web sites.
-    * Reduced code size and complexity to simplify on-going site
-      maintenance.
-* Designed and implemented web applications for small businesses and
-  non-profits.
-    * Social networking hub, integrated with other social networking sites.
-    * Management system to track tutoring sessions.
-    * Conversion of Access application for aggregating feedback forms.
-
-Tech Stack: Ruby, Rails, RSpec, jQuery
-
 **Principal Software Engineer** at Binary Noggin (2019 - 2021)
 
 * Built web back-end to manage electronic poll books and aggregate data.
@@ -139,18 +124,28 @@ Kubernetes, RabbitMQ
     * Contributed to rewrite of a hospital system's patient portal.
     * Wrote application for patients to find doctors by specialty.
         * Developed in 5 weeks, on time and on budget.
+    * Reduced code size and complexity to simplify on-going site
+      maintenance.
 * Consulted at a large corporation (7000 employees) to teach developers
   how to implement Agile practices.
     * Implemented pair programming, Kanban, TDD, refactoring, continuous
       integration.
-    * Mentored them to improve their Java skills.
-* Promoted Agile/Lean methodologies to increase team performance.
-    * Instituted retrospectives, pair programming, Kanban, TDD, BDD,
-      acceptance testing, refactoring, CI.
+    * Mentored developers to improve their Java skills.
+* Guided companies in establishing technical and process improvements.
+    * Embedded within development teams as Agile player-coach.
+    * Promoted Agile/Lean methodologies to increase team performance.
+        * Instituted retrospectives, pair programming, Kanban, TDD, BDD,
+          acceptance testing, refactoring, CI.
 * Built an internal cloud infrastructure, automating deployment of Java
   applications.
+    * Implemented web control panel in Python.
+* Designed and implemented web applications for small businesses and
+  non-profits.
 
-Tech skills: Ruby, Rails, Python, Bash shell, Java, HTML, HAML, CSS, SASS, F5 load balancers, Capybara, Cucumber, Jasmine, Cucumber-JVM, Selenium, Jenkins, JUnit, MongoDB, ElasticSearch, Devise, CoffeeScript
+Tech Stacks: Ruby, Rails, RSpec, Python, Bash shell, JavaScript, jQuery,
+Java, HTML, HAML, CSS, SASS, F5 load balancers, Capybara, Cucumber,
+Jasmine, Cucumber-JVM, Selenium, Jenkins, JUnit, MongoDB, ElasticSearch,
+Devise, CoffeeScript
 
 
 Education
