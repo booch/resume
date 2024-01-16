@@ -167,11 +167,9 @@ Community Involvement
 * This Agile Life podcast - Co-host (2013-2019)
 * Roy Clay Sr. Tech Impact program - Instructor, Mentor
 
+### Conference Talks
 
-Conference Talks
-----------------
-
-* RubyConf - 2014, 2015, 2016, 2023
+* RubyConf - 2014, 2015, 2016
 * RailsConf - 2015, 2018, 2019
 * Agile Alliance Technical Conference - 2017
 * Madison+ Ruby - 2015
