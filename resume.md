@@ -11,18 +11,21 @@ craig@boochtek.com
 Summary
 -------
 
-* Agile player-coach, focused on continuously improving how teams work —
-  including processes, technical practices, and automation.
-* Software engineer with over 25 years of industry experience.
-* Experienced Ruby on Rails web developer with strong DevOps skills.
+* Software engineer with 15+ years of experience, with 10+ years additional
+  IT experience.
+* Agile player-coach with a proven track record of mentoring and cultivating
+  talent, transforming teams and team members into the best versions of themselves.
+* Experienced Ruby on Rails web developer with strong devops skills.
 
 
 Highlights
 ----------
 
+* Continuously improving how teams work — including processes,
+  technical practices, and automation.
 * Mentored developers in Agile methodologies and Java programming.
-* Consistently active member of local developer communities.
-* Frequent speaker at conferences and local user groups.
+* Active member of developer community,
+  frequently speaking at conferences and local user groups.
 
 
 Professional Experience
