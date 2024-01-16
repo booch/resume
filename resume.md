@@ -37,8 +37,8 @@ Professional Experience
     * Maintained and built functionality for management of public debt,
       leases, and software subscriptions.
     * Ensured compliance with government accounting standards (GASB, FASB).
-* Transformed engineering practices to meet the needs of a startup growing
-  from a small company to a mid-sized company.
+* Transformed engineering practices to meet the needs of a quickly growing
+  startup.
     * Focused on building maintainable, reliable, scalable, and performant
       code.
     * Improved processes, workflow, and automation.
@@ -46,13 +46,13 @@ Professional Experience
     * Provided code reviews, ensuring quality and providing learning
       opportunities.
     * Mentored junior developers.
-* Led several large projects.
-    * Made architecture decisions.
-* Grew team from 4 to 12 developers in 1 year.
+* Led several large projects, making design and architectural decisions.
+* Grew team from 4 to 25 developers in 18 months.
     * Interviewed and assessed candidates.
     * Streamlined, documented, and automated onboarding process.
 
-Tech Stack: Ruby, Rails, Sidekiq, React, Docker Compose, PostgreSQL, GitLab
+Tech Stack: Ruby, Rails, Sidekiq, JavaScript, React, Docker Compose,
+Bash shell, PostgreSQL, GitLab
 
 **Staff Software Engineer** at True Link Financial (2022)
 
