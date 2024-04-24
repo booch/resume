@@ -31,7 +31,7 @@ Highlights
 Professional Experience
 -----------------------
 
-Staff Software Engineer at DebtBook (2022 - present)
+Staff Software Engineer at DebtBook (2022 - 2024)
 
 * Built web app to manage financial accounting for local governments.
     * Maintained and built functionality for management of public debt,
