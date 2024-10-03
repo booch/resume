@@ -7,16 +7,13 @@ craig.buchek@gmail.com
 
 ***************************************************************************
 
-
 Summary
 -------
 
-* Software engineer with 15+ years of experience, with 10+ years additional
-  IT experience.
+* Software engineer with 15+ years of experience, plus 10+ years IT experience.
 * Agile player-coach with a proven track record of mentoring and cultivating
   talent, transforming teams and team members into the best versions of themselves.
-* Experienced Ruby on Rails web developer with strong devops skills.
-
+* Experienced Ruby on Rails web developer with strong devops and automation skills.
 
 Highlights
 ----------
@@ -27,9 +24,24 @@ Highlights
 * Active member of developer community,
   frequently speaking at conferences and local user groups.
 
-
 Professional Experience
 -----------------------
+
+**Director of Engineering Excellence** at BookTek (2007 - present)
+
+* Managed various projects as an independent consultant/contractor.
+* Designed, implemented, and deployed large-scale web applications.
+    * Developed, maintained, and documented APIs for several mobile client
+      applications.
+    * Contributed to rewrite of a hospital system's patient portal.
+    * Wrote application for patients to find doctors by specialty.
+        * Developed in 5 weeks, on time and on budget.
+    * Reduced code size and complexity to simplify on-going site
+      maintenance.
+    * Upgraded and maintained older Rails applications.
+
+Tech Stacks: Ruby, Rails, RSpec, Python, Bash shell, JavaScript, jQuery,
+HTML, HAML, CSS, GNU/Linux (Debian, Ubuntu, Red Hat)
 
 **Staff Software Engineer** at DebtBook (2022 - 2024)
 
@@ -122,13 +134,6 @@ Kubernetes, RabbitMQ
         * Provisioned load-balanced servers for 200,000 concurrent users.
     * Asset management system for a large company (12 million digital
       assets).
-    * Developed, maintained, and documented APIs for several mobile client
-      applications.
-    * Contributed to rewrite of a hospital system's patient portal.
-    * Wrote application for patients to find doctors by specialty.
-        * Developed in 5 weeks, on time and on budget.
-    * Reduced code size and complexity to simplify on-going site
-      maintenance.
 * Consulted at a large corporation (7000 employees) to teach developers
   how to implement Agile practices.
     * Implemented pair programming, Kanban, TDD, refactoring, continuous
@@ -150,13 +155,11 @@ Java, HTML, HAML, CSS, SASS, F5 load balancers, Capybara, Cucumber,
 Jasmine, Cucumber-JVM, Selenium, Jenkins, JUnit, MongoDB, ElasticSearch,
 Devise, CoffeeScript
 
-
 Education
 ---------
 
 * Rose-Hulman Institute of Technology (Terre Haute, IN) -
   Computer Science major
-
 
 Community Involvement
 ---------------------
