@@ -169,8 +169,9 @@ Community Involvement
 
 ### Conference Talks
 
-* RubyConf - 2014, 2015, 2016
+* RubyConf - 2014, 2015, 2016, 2024
 * RailsConf - 2015, 2018, 2019
+* Madison+ Ruby - 2015, 2024
 * Blue Ridge Ruby - 2024
+* Rocky Mountain Ruby - 2024
 * Agile Alliance Technical Conference - 2017
-* Madison+ Ruby - 2015
