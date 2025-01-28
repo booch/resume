@@ -13,7 +13,7 @@ https://github.com/booch
 
 ## Summary
 
-* Software engineer with 15+ years of experience, plus 10+ years IT experience.
+* Software engineer with 20 years of experience, plus 10+ years IT experience.
 * Agile player-coach with a proven track record of mentoring and cultivating
   talent, transforming teams and team members into the best versions of themselves.
 * Experienced Ruby on Rails web developer with strong devops and automation skills.
@@ -28,7 +28,7 @@ https://github.com/booch
 
 ## Professional Experience
 
-### Director of Engineering Excellence at BookTek (2007 - present)
+### Director of Engineering Excellence at BoochTek (2007 - present)
 
 * Managed various projects as an independent consultant/contractor.
 * Designed, implemented, and deployed large-scale web applications.
