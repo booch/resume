@@ -1,13 +1,19 @@
 #!/bin/bash
 
 # Install Kramdown gem (including binary).
-hash kramdown 2>/dev/null || gem install kramdown
+if ! command -v kramdown &> /dev/null ; then
+    gem install kramdown
+fi
 
-# Install wkhtmltopdf.
-hash wkhtmltopdf 2>/dev/null || brew install wkhtmltopdf
+# Install weasyprint, if it's not already installed.
+if ! command -v weasyprint &> /dev/null ; then
+    brew install -q weasyprint
+fi
 
 # Install HTML5 version of Tidy.
-[[ $(type tidy) == 'tidy is /usr/local/bin/tidy' ]] || echo brew install tidy-html5
+if ! command -v tidy &> /dev/null ; then
+    brew install tidy-html5
+fi
 
 # UNIX convention is to succeed silently, but that seems a little too surprising for a setup script.
 echo "All prerequisites installed."

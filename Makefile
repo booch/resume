@@ -1,5 +1,6 @@
 all: resume.txt resume.html resume.pdf
 .PHONY: all
+.PHONY: setup
 
 # Create text version from Markdown. (Remove double asterisks (except for a line of asterisks) and header attributes.)
 %.txt: %.md
@@ -18,3 +19,6 @@ all: resume.txt resume.html resume.pdf
 		--margin-top 30pt --margin-bottom 24pt --margin-left 60pt --margin-right 60pt \
 		--title "Craig Buchek's résumé" \
 		$< $@
+
+setup:
+	./SETUP.sh
