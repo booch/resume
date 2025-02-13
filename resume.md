@@ -13,10 +13,10 @@ https://github.com/booch
 
 ## Summary
 
-* Software engineer with 20 years of experience, plus 10+ years IT experience.
+* Software engineer with 20+ years of experience, plus 10+ years IT experience.
 * Agile player-coach with a proven track record of mentoring and cultivating
-  talent, transforming teams and team members into the best versions of themselves.
-* Experienced Ruby on Rails web developer with strong devops and automation skills.
+  talent, transforming teams and team members into high performers.
+* Strong coding, devops, system admin, networking, and automation skills.
 
 ## Highlights
 
@@ -28,7 +28,7 @@ https://github.com/booch
 
 ## Professional Experience
 
-### Director of Engineering Excellence at BoochTek (2007 - present)
+### Principal Software Engineer, Director of Engineering Excellence at BoochTek (2007 - present)
 
 * Managed various projects as an independent consultant/contractor.
 * Designed, implemented, and deployed large-scale web applications.
@@ -40,7 +40,7 @@ https://github.com/booch
 * Upgraded and maintained older Rails applications.
 
 Tech Stacks: Ruby, Rails, RSpec, Python, Bash shell, JavaScript, jQuery,
-HTML, HAML, CSS, GNU/Linux (Debian, Ubuntu, Red Hat)
+HTML, HAML, CSS, GNU/Linux (Debian, Ubuntu, Red Hat), Spring
 
 ### Staff Software Engineer at DebtBook (2022 - 2024)
 
@@ -92,7 +92,7 @@ Tech Stack: Ruby, Rails, RSpec, AWS, React
 * Upgraded application from Rails 4.2 to 6.0.
 * Automated infrastructure build-out.
 
-Tech Stack: Ruby, Rails, Sidekiq, RSpec, jQuery, Kubernetes, AWS, Terraform
+Tech Stack: Ruby, Rails, Sidekiq, RSpec, jQuery, Datadog, Kubernetes, AWS, Terraform
 
 ### Sr. Software Developer at Weedmaps (2019)
 
@@ -151,7 +151,7 @@ Kubernetes, RabbitMQ
 Tech Stacks: Ruby, Rails, RSpec, Python, Bash shell, JavaScript, jQuery,
 Java, HTML, HAML, CSS, SASS, F5 load balancers, Capybara, Cucumber,
 Jasmine, Cucumber-JVM, Selenium, Jenkins, JUnit, MongoDB, ElasticSearch,
-Devise, CoffeeScript
+Devise, CoffeeScript, New Relic
 
 ## Education
 
@@ -160,9 +160,10 @@ Devise, CoffeeScript
 
 ## Community Involvement
 
-* STL Tech Slack - Co-admin
+* LA Ruby Meetup - Co-organizer
 * STL Ruby - Co-organizer
 * STL Polyglots - Co-founder
+* STL Tech Slack - Co-admin (2016-2022)
 * This Agile Life podcast - Co-host (2013-2019)
 * Roy Clay Sr. Tech Impact program - Instructor, Mentor
 
