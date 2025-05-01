@@ -1,3 +1,5 @@
+# Generic Cover Letter
+
 I'm excited about the {{Position Title}} role at {{Company Name}}. {{Specific reason I'm interested, EXAMPLE: "This role stood out because of its emphasis on code quality, best practices, and continuous improvement — principles I've embraced throughout my career."}}
 
 As I've grown into leadership roles, my focus has shifted to increasing developer effectiveness. I help teams build the right things — and build them well — delivering continuous value and impact. I'm like salt — while I deliver strong individual results, my greatest impact is in enhancing the performance of the entire team.
@@ -8,10 +10,10 @@ Before transitioning into software development, I spent a decade in network secu
 
 I look forward to discussing the specific challenges your team is facing and exploring how my experience can help solve them.
 
-Best regards,
+Best regards,  
 Craig Buchek
 
-mailto:craig.buchek@gmail.com
-tel:314-374-5780
-https://github.com/booch
-https://linkedin.com/in/craigbuchek
+mailto:craig.buchek@gmail.com  
+tel:314.374.5780  
+https://github.com/booch  
+https://linkedin.com/in/craigbuchek  
