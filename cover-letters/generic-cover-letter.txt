@@ -1,6 +1,4 @@
-# Generic Cover Letter
-
-I'm excited about the {{Position Title}} role at {{Company Name}}. {{Specific reason you're interested, e.g., "This role stood out because of its emphasis on code quality, best practices, and continuous improvement — principles I've embraced throughout my career."}}
+I'm excited about the {{Position Title}} role at {{Company Name}}. {{Specific reason I'm interested, EXAMPLE: "This role stood out because of its emphasis on code quality, best practices, and continuous improvement — principles I've embraced throughout my career."}}
 
 As I've grown into leadership roles, my focus has shifted to increasing developer effectiveness. I help teams build the right things — and build them well — delivering continuous value and impact. I'm like salt — while I deliver strong individual results, my greatest impact is in enhancing the performance of the entire team.
 
